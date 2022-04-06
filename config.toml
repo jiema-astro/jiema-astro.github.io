@@ -2,7 +2,7 @@
 # Global options
 baseURL = "https://jiema-astro.github.io"
 canonifyURLs = true
-copyright = "© 2021 by Carl Barks. <a href='/privacy'>Privacy policy</a>."
+copyright = "© 2022 by Jie Ma. <a href='/privacy'>Privacy policy</a>."
 defaultContentLanguage = "en"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 languageCode = "en"
@@ -57,7 +57,7 @@ title = "Jie Ma"
             name = "E-Mail"
             class = "fas fa-envelope"
             url = "mailto:jma@phys.ethz.ch"
-            weight = 1
+            weight = 2
         #[params.social.github]
         #    name = "GitHub"
         #    class = "fab fa-github"
