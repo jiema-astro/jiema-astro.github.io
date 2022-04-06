@@ -7,7 +7,7 @@ defaultContentLanguage = "en"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 languageCode = "en"
 theme = "barks"
-title = "Carl Barks"
+title = "Jie Ma"
 
 
 
@@ -31,7 +31,7 @@ title = "Carl Barks"
 [params]
 
     [params.head]
-        author = "Carl Barks"
+        author = "Jie Ma"
         custom_css = ""
         description = "Hi, I'm Carl, and this is my website!"
         keywords = ["some", "keywords", "to", "describe", "this"]
