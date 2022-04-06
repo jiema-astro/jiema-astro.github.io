@@ -7,7 +7,7 @@ math: false
 Sometimes, blog posts (or normal pages) will also contain an image, this is why we provide an example here to test the stylesheets for this.
 
 <figure>
-    <img src="/posts/2021/05/05/NCCR_Project1.1_poster.pdf">
+    <img src="/posts/2021/05/05/NCCR_Project1-1_poster.pdf">
     <figcaption>
         Wikipedia says: "Monte Altissimo di Nago is one of the highest summits of the Monte Baldo mountain range and thereby part of the Garda Mountains in northern Italy."
         Source: <a href="https://unsplash.com/photos/wndpWTiDuT0">Unsplash</a>.
