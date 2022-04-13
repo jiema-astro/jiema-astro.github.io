@@ -13,7 +13,7 @@ title = "Jie Ma"
 
 # Main menu
 [[menu.main]]
-    name = "About"
+    name = "About "
     url  = "/about"
     weight = 2
 [[menu.main]]
@@ -33,7 +33,7 @@ title = "Jie Ma"
     [params.head]
         author = "Jie Ma"
         custom_css = ""
-        description = "Hi, I'm Carl, and this is my website!"
+        description = "Hi, I'm Jie, and welcome to my website!"
         keywords = ["some", "keywords", "to", "describe", "this"]
 
     [params.navigation]
@@ -86,7 +86,7 @@ title = "Jie Ma"
         [params.social.orcid]
             name = "ORCID iD"
             class = "fab fa-orcid"
-            url = ""
+            url = "https://orcid.org/my-orcid?orcid=0000-0003-3583-6652"
             weight = 4
         #[params.social.twitter]
         #    name = "Twitter"
