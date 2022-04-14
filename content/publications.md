@@ -5,11 +5,8 @@ hide_title: true
 
 # Peer reviewed articles
 
-* **Barks, C.** & Twain, B. (2021): *To bark or not to bark? A neo-woofological perspective on Shakespeare's Hamlet.* Journal of Barkology, 42 (23). DOI: [10.1234/3456789](https://doi2bib.org/bib/10.1234/3456789).
-* Twain, B., **Barks, C.**, Warhowl, A. (2020): *Barking is all you need.* Proceedings of the 31th International Conference on Yapping. DOI: [10.987654/321](https://doi2bib.org/bib/10.1234/3456789).
-
-
+* Hunziker, S., Schmid, H.M., **Ma, J.** (2021): *HD142527: Quantitative disk polarimetry with SPHERE.* A&A, 648, A110. DOI: [10.1051/0004-6361/202040166](https://ui.adsabs.harvard.edu/abs/2021A%26A...648A.110H/abstract).
 
 # Preprints
 
-* **Barks, C.**, Twain, B. (2021): *Who let the dogs out, who, who?* Submitted to the *Barking: past, present, future* workshop at WoofCon 2021. barXiv: [2109.123456](https://barxiv.org/abs/2109.123456).
+* **Ma, J.**, Schmid, H.M. (2022): *A model grid for the reflected light from transition disks* Accepted for A&A publication. arXiv: [2204.06370](https://ui.adsabs.harvard.edu/abs/2022arXiv220406370M/abstract).
