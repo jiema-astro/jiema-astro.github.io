@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jie Ma</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Jie Ma</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>© 2022 by Jie Ma. &lt;a href=&#39;http://localhost:1313/privacy&#39;&gt;Privacy policy&lt;/a&gt;.</copyright>
+    <lastBuildDate>Thu, 14 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/posts/2021/05/05/first-post/</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2021/05/05/first-post/</guid>
+      <description>&lt;h2 id=&#34;talks-and-posters&#34;&gt;Talks and posters&lt;/h2&gt;&#xA;&lt;h2 id=&#34;invited&#34;&gt;Invited&lt;/h2&gt;&#xA;&lt;h2 id=&#34;teaching&#34;&gt;Teaching&lt;/h2&gt;&#xA;&lt;h2&gt;&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Another post, this time with LaTeX</title>
+      <link>http://localhost:1313/posts/2021/09/01/another-post/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2021/09/01/another-post/</guid>
+      <description>&lt;p&gt;This is another dummy blog post in which we also use LaTeX.&#xA;Since the &lt;a href=&#34;https://en.m.wikipedia.org/wiki/Pythagorean_theorem&#34;&gt;Pythagorean theorem&lt;/a&gt; is slightly overused as an example, how about we go with the time-dependent &lt;a href=&#34;https://en.m.wikipedia.org/wiki/Schr%C3%B6dinger_equation&#34;&gt;Schrödinger equation&lt;/a&gt; instead?&lt;/p&gt;&#xA;&lt;p&gt;$$&#xA;i\hbar {\frac {d}{dt}}\vert \Psi (t)\rangle ={\hat {H}}\vert \Psi (t)\rangle&#xA;$$&lt;/p&gt;&#xA;&lt;p&gt;See? It works beautifully!&#xA;We can even use LaTeX inline to explain that $\Psi$ is the state vector of the quantum system, and $\hat{H}$ is the Hamiltonian.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My first post (with an image)</title>
+      <link>http://localhost:1313/posts/2021/08/31/first-post/</link>
+      <pubDate>Tue, 31 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2021/08/31/first-post/</guid>
+      <description>&lt;p&gt;Sometimes, blog posts (or normal pages) will also contain an image, this is why we provide an example here to test the stylesheets for this.&lt;/p&gt;&#xA;&lt;figure&gt;&#xA;    &lt;img src=&#34;http://localhost:1313/posts/2021/08/31/monte-altissimo-di-nago.jpg&#34;&gt;&#xA;    &lt;figcaption&gt;&#xA;        Wikipedia says: &#34;Monte Altissimo di Nago is one of the highest summits of the Monte Baldo mountain range and thereby part of the Garda Mountains in northern Italy.&#34;&#xA;        Source: &lt;a href=&#34;https://unsplash.com/photos/wndpWTiDuT0&#34;&gt;Unsplash&lt;/a&gt;.&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&lt;p&gt;Looks pretty good, I&amp;rsquo;d say?&#xA;If we just continue this text for a little longer, we can probably also test how / if the summary feature works, and where the truncation occurs.&#xA;(Unfortunately, this the &lt;code&gt;.Summary&lt;/code&gt; variable in Hugo does not always give the expected result&amp;hellip;)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about_tutorial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about_tutorial/</guid>
+      <description>&lt;p&gt;Dust component in protoplanetary disks is closely related to planet formation. The polarized light from the dust on the disk surface can be observed using PDI (Polarimetric Differential Imaging). We build a simple model describing the disk geometry and scattering process, which has the significant potential characterising dust scattering properties.&lt;/p&gt;&#xA;&lt;h2 id=&#34;headings&#34;&gt;Headings&lt;/h2&gt;&#xA;&lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; elements represent six levels of section headings. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; is the highest section level while &lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; is the lowest.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hi! My name is Jie. I&amp;rsquo;m a Ph.D. student in Exoplanets and Habitability group at ETH Zurich under supervison of Prof. H.M. Schmid since Nov. 2019.&#xA;During my bachelor studies at Wuhan University, I joined the international joint program with Universit$&#39;e$ Claude Bernard Lyon 1. I did my bachelor thesis at Centre de Recherche Astrophysique de Lyon (CRAL). Then I came to ETH Zurich for master studies and did both semester project and master thesis in my current group.&#xA;&lt;The bachelor thesis&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy policy</title>
+      <link>http://localhost:1313/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/privacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:1313/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/</guid>
+      <description>&lt;h1 id=&#34;peer-reviewed-articles&#34;&gt;Peer reviewed articles&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Hunziker, S., Schmid, H.M., &lt;strong&gt;Ma, J.&lt;/strong&gt; (2021): &lt;em&gt;HD142527: Quantitative disk polarimetry with SPHERE.&lt;/em&gt; A&amp;amp;A, 648, A110. DOI: &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2021A%26A...648A.110H/abstract&#34;&gt;10.1051/0004-6361/202040166&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;preprints&#34;&gt;Preprints&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ma, J.&lt;/strong&gt;, Schmid, H.M. (2022): &lt;em&gt;A model grid for the reflected light from transition disks&lt;/em&gt; Accepted for A&amp;amp;A publication. arXiv: &lt;a href=&#34;https://ui.adsabs.harvard.edu/abs/2022arXiv220406370M/abstract&#34;&gt;2204.06370&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
