@@ -1,8 +1,6 @@
 ---
 layout: landing_page
-image: avatar.jpg
+image: profile.jpg
 ---
 
-Hi, I'm Jie! 
-
-I am a Ph.D. student at ETH Zurich since Nov, 2019. My research project is on characterizing dust properties in protoplanetary disks. We build models and simulate the observing reflected light by the disk inner wall. Comparing the simulations with the VLT/SPHERE PDI observations, we're able to constrain the dust properties. 
+Welcome to my personal website! I'm **Jie MA**, an astrophysicist specializing in the study of protoplanetary disks and planet formation. My research combines **high-contrast high resolution imaging**, **radiative transfer modeling**, and **dust characterization** to explore the complex processes that shape planetary systems. Currently, I am a postdoctoral researcher at IPAG, where I use cutting-edge observational tools and numerical simulations to uncover the mysteries of dust in the earliest stages of planet formation. Feel free to explore my work, publications, and research interests!

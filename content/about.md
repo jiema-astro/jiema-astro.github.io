@@ -2,14 +2,27 @@
 title: "About Me"
 math: true
 ---
-Hi! My name is Jie. I'm a Ph.D. student in Exoplanets and Habitability group at ETH Zurich under supervison of Prof. H.M. Schmid since Nov. 2019. 
-During my bachelor studies at Wuhan University, I joined the international joint program with Universit$\'e$ Claude Bernard Lyon 1. I did my bachelor thesis at Centre de Recherche Astrophysique de Lyon (CRAL). Then I came to ETH Zurich for master studies and did both semester project and master thesis in my current group. 
+Hi, I'm **Jie Ma**, an astrophysicist with a passion for studying **protoplanetary disks** and **planet formation**. I completed my PhD at ETH Zurich and am currently working as a postdoctoral researcher at IPAG, France. My work involves the use of advanced **polarimetry** and **radiative transfer modeling** to understand the **dust evolution** in protoplanetary disks.
+
+I have a deep interest in using cutting-edge observational tools like **VLT/SPHERE**, **VLTI**, and **JWST** to uncover the mysteries of disk structures and dust properties. Outside of my research, I enjoy teaching, mentoring, and contributing to scientific outreach and collaborations.
+
+In my free time, I like to read novels, listen to music, and explore new languages. Feel free to reach out to me for collaborations or discussions!
+
+
 <The bachelor thesis>
 
 ## Research interests
-My research project is characterization of dust properties in protoplanetary disks. The dust component in protoplanetary disks is of great interest because it is closely related to planet formation. One popular way to study the dust is throught the direct imaging of the polarized light from the dust on the disk surface. Using high-contrast imaging with PDI (Polarimetric Differential Imaging) mode, we've obtained reflected polarized light from many disks.
+My research focuses on understanding the processes that shape the formation and evolution of planetary systems, particularly in the context of **protoplanetary disks**. Key areas of my work include:
+
+**Polarimetric Observations**: Developing and applying **polarimetry techniques** to measure the spatial and temporal evolution of dust in disks. Polarimetry is a powerful tool for probing the properties of dust in protoplanetary disks. It provides unique insights into **dust scattering**, allowing us to probe the spatial distribution, size, and composition of dust grains. The degree of polarization is particularly sensitive to the shape of dust, making polarimetry invaluable for studying dust evolution and growth. 
+
+**Radiative Transfer Modeling**: I have developed my own radiative transfer model to simulate the scattered light in geometrically symmetric optically thick disk. Additionally, I have extensive experience with RADMC-3D, a widely-used tool for creating complex disk models. This software allows me to model disk structures, simulate light scattering and thermal emission, and compare synthetic observations with real data to constrain disk properties.
+
+**Dust Characterization**: A particular challenge in extracting scattering information from the observation is caused by PSF convolution effect, which blurs high-resolution images and reduces the accuracy of measurements. However, by carefully accounting for this effect, I can achieve high-accuracy photo-polarimetric measurements, allowing me to provide reliable dust characterization and improve our understanding of disk structure and evolution.
+
+
+
 <[figure]\caption{Transition disks}>
 
-We build a simple model describing the disk geometry and scattering process, which has the significant potential characterising dust scattering properties. 
 
 ## External links
