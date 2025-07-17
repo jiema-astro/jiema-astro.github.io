@@ -4,7 +4,7 @@ baseURL = "https://jiema-astro.github.io"
 canonifyURLs = true
 copyright = "© 2022 by Jie Ma. <a href='/privacy'>Privacy policy</a>."
 defaultContentLanguage = "en"
-disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = ["taxonomy"]
 languageCode = "en"
 theme = "barks"
 title = "Jie Ma"
